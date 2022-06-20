@@ -1,4 +1,4 @@
-apple red
-banana orange
+apple-red
+kiwi-green
 orange green
 kiwi
